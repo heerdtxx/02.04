@@ -1,0 +1,49 @@
+.titulo {
+    background-color: black;
+    color: white;
+}
+
+.nav{
+    background-color: #352323;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu_nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu_do_menu{
+    display: inline;
+    margin-right: 20px;
+}
+
+.sec{
+    background-color: black;
+    color: white;
+}
+
+.sec_2{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.a{
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    padding: 20px;
+}
+
+.b{
+    display: inline;
+    margin-right: 20px;
+}
